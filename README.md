@@ -1,3 +1,7 @@
+# ABout This Project
+This project is about a tooltip on which we hover it shows a notification
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
